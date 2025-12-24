@@ -34,4 +34,4 @@ An interactive sales dashboard was built using Excel to visualize profit over ti
 
 This project demonstrates my ability to work with sales data, build meaningful dashboards, and present insights in a simple and business-friendly manner.
 
-![Dashboard Screenshot](https://github.com/Salaam-Daris/Financial-Analysis-PowerBI/blob/1d490e6ff9c49466ca35b31a2583e3b757a53c42/FinancialDashboardScreenshot.PNG)
+![Dashboard Screenshot](https://github.com/Salaam-Daris/Interactive-Sales-Dashboard-Excel-Power-BI/blob/main/SalesDataUsingExcel.PNG)
